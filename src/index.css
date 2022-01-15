@@ -1,0 +1,42 @@
+.center{
+  padding-top:10%;
+  padding-left:17%;
+}
+
+.header {
+  outline: none;
+  text-align:center;
+  color:white;
+  font-size:48px;
+  height:5%;
+  width:100%;
+  background-color:black;
+  }
+  
+.leftbar {
+  float: left;
+  text-align: center;
+  color:white;
+  height:100%;
+  width:15%;
+  background-color: rgb(112, 115, 126);
+  position: fixed;
+  }
+
+  .jokeSection
+  {
+    padding:10%;  
+  }
+
+  .hideMe{
+    display:none;
+  }
+
+
+
+
+
+
+
+
+
